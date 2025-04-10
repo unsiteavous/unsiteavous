@@ -31,7 +31,7 @@ Web Developer passionate about **PHP**, **Symfony**, and **clean code**, I'm als
 - [**Toaster**](https://gitlab.com/unsiteavous/toasteur) : A small library that allows creating JS toasts using OOP where I need it.
 - [**Git config**](https://gitlab.com/unsiteavous/gitconfig) : Aliases to customize some git actions ([more details](https://unsiteavous.fr/astuces/creer-et-gerer-des-alias-git-mes-meilleurs-alias/))
 - [**Userstories**](https://git.captp.fr/theophile/userstories) ([demo](https://userstorymanager.unsiteavous.fr/)) : App to manage Users stories
-- [**Automatic file Renamer**](https://wordpress.org/plugins/automatic-file-renamer/) : a little tiny extension
+- [**Automatic file Renamer**](https://wordpress.org/plugins/automatic-file-renamer/) : a little tiny WordPress extension
 - [**1lien.top**](https://1lien.top/) : a url shortener (first project, be kind ☺️)
 
 You also can retrieve all my wordpress websites on my [wordpress website](https://unsiteavous.fr/). 😉
